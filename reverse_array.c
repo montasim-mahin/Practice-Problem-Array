@@ -6,7 +6,7 @@ int main()
     int i, arr[n];
     for(int i=0;i<n;i++)
     {
-        scanf("%d",&arr[i]);//example index 7 but elements 8 because index starts from 0
+        scanf("%d",&arr[i]);
 
     }
     printf("reverse values\n");
